@@ -10,6 +10,7 @@ import rutimur.gymtrack.Repository.UserRepository;
 import rutimur.gymtrack.Security.JwtUtil;
 import rutimur.gymtrack.Service.UserService;
 
+import java.util.Map;
 import java.util.Optional;
 
 @Tag(name = "Аутентификация", description = "Регистрация и вход пользователей")
@@ -46,7 +47,7 @@ public class AuthController {
             User user = userOpt.get();
             if (passwordEncoder.matches(loginRequest.getPassword(), user.getPassword())) {
                 String token = jwtUtil.generateToken(user.getUsername(), user.getRole().name());
-                return ResponseEntity.ok().body(token);
+                return ResponseEntity.ok(Map.of("token", token));
             }
         }
         return ResponseEntity.status(401).body("Invalid username or password");
