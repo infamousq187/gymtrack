@@ -19,7 +19,7 @@ public class ExerciseController {
     private ExerciseService exerciseService;
 
     // Только для тренера и админа
-    @PreAuthorize("hasAnyRole('TRAINER', 'ADMIN')")
+    //@PreAuthorize("hasAnyRole('COACH', 'ADMIN')")
     @PostMapping
     public ResponseEntity<Exercise> addExercise(@RequestBody Exercise exercise) {
         return ResponseEntity.ok(exerciseService.addExercise(exercise));
@@ -32,14 +32,14 @@ public class ExerciseController {
     }
 
     // Только для тренера и админа
-    @PreAuthorize("hasAnyRole('TRAINER', 'ADMIN')")
+    @PreAuthorize("hasAnyRole('COACH', 'ADMIN')")
     @PutMapping("/{id}")
     public ResponseEntity<Exercise> updateExercise(@PathVariable Long id, @RequestBody Exercise exercise) {
         return ResponseEntity.ok(exerciseService.updateExercise(id, exercise));
     }
 
     // Только для тренера и админа
-    @PreAuthorize("hasAnyRole('TRAINER', 'ADMIN')")
+    @PreAuthorize("hasAnyRole('COACH', 'ADMIN')")
     @DeleteMapping("/{id}")
     public ResponseEntity<Void> deleteExercise(@PathVariable Long id) {
         exerciseService.deleteExercise(id);

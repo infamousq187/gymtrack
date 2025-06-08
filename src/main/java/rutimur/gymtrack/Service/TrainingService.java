@@ -25,7 +25,7 @@ public class TrainingService {
     }
 
     public List<Training> getTrainingsByUser(User user) {
-        return trainingRepository.findByUser(user);
+        return trainingRepository.findByUserId(user.getId());
     }
 
     public List<Training> getAllTrainings() {

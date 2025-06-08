@@ -3,12 +3,15 @@ package rutimur.gymtrack.Controller;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.*;
 import rutimur.gymtrack.DTO.ExerciseStatPoint;
 import rutimur.gymtrack.Model.Training;
 import rutimur.gymtrack.Model.User;
+import rutimur.gymtrack.Repository.UserRepository;
 import rutimur.gymtrack.Service.TrainingService;
+import rutimur.gymtrack.Service.UserService;
 
 import java.util.List;
 
@@ -19,6 +22,7 @@ public class TrainingController {
 
     @Autowired
     private TrainingService trainingService;
+    private UserRepository userRepository;
 
     // Создать тренировку
     @PostMapping
@@ -38,5 +42,16 @@ public class TrainingController {
             @PathVariable Long exerciseId,
             @AuthenticationPrincipal User user) {
         return ResponseEntity.ok(trainingService.getExerciseStatsForUser(user, exerciseId));
+    }
+
+    @PreAuthorize("hasAnyRole('COACH', 'ADMIN')")
+    @PostMapping("/for-user")
+    public ResponseEntity<Training> createTrainingForUser(
+            @RequestBody Training training,
+            @RequestParam Long userId) {
+        User user = userRepository.findById(userId)
+                .orElseThrow(() -> new RuntimeException("User not found"));
+        training.setUser(user);
+        return ResponseEntity.ok(trainingService.saveTraining(training));
     }
 }

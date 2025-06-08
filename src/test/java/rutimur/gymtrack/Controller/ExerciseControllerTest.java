@@ -42,7 +42,7 @@ public class ExerciseControllerTest {
         trainer.setUsername("trainer1");
         trainer.setPassword("$2a$10$7Qw..."); // захешированный пароль, можно любой, если не проверяешь пароль
         trainer.setName("Trainer One");
-        trainer.setRole(Role.TRAINER);
+        trainer.setRole(Role.COACH);
         userRepository.save(trainer);
 
         trainerToken = jwtUtil.generateToken(trainer.getUsername(), trainer.getRole().name());

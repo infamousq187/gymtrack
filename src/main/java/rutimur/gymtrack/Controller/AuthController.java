@@ -5,6 +5,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.web.bind.annotation.*;
+import rutimur.gymtrack.DTO.UserLoginDTO;
+import rutimur.gymtrack.DTO.UserRegisterDTO;
+import rutimur.gymtrack.DTO.UserRegisterResponseDTO;
 import rutimur.gymtrack.Model.User;
 import rutimur.gymtrack.Repository.UserRepository;
 import rutimur.gymtrack.Security.JwtUtil;
@@ -35,19 +38,28 @@ public class AuthController {
     }
 
     @PostMapping("/register")
-    public ResponseEntity<User> registerUser(@RequestBody User user) {
-        User createdUser = userService.registerUser(user);
-        return ResponseEntity.ok(createdUser);
+    public ResponseEntity<UserRegisterResponseDTO> registerUser(@RequestBody UserRegisterDTO userDto) {
+        User createdUser = userService.registerUser(userDto);
+        UserRegisterResponseDTO response = new UserRegisterResponseDTO(
+                createdUser.getUsername(),
+                createdUser.getName(),
+                createdUser.getRole().name()
+        );
+        return ResponseEntity.ok(response);
     }
 
     @PostMapping("/login")
-    public ResponseEntity<?> login(@RequestBody User loginRequest) {
+    public ResponseEntity<?> login(@RequestBody UserLoginDTO loginRequest) {
         Optional<User> userOpt = userRepository.findByUsername(loginRequest.getUsername());
         if (userOpt.isPresent()) {
             User user = userOpt.get();
             if (passwordEncoder.matches(loginRequest.getPassword(), user.getPassword())) {
                 String token = jwtUtil.generateToken(user.getUsername(), user.getRole().name());
-                return ResponseEntity.ok(Map.of("token", token));
+                // Возвращаем и токен, и роль
+                return ResponseEntity.ok(Map.of(
+                        "token", token,
+                        "role", user.getRole().name()
+                ));
             }
         }
         return ResponseEntity.status(401).body("Invalid username or password");
