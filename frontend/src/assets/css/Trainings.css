@@ -1,0 +1,128 @@
+.trainings-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 15px auto;
+}
+
+.logo-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    padding: 20px 0;
+}
+
+
+
+.search-section {
+    width: 100%;
+    margin-bottom: 40px;
+    padding: 0 20px;
+}
+
+.search-bar {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+    .search-bar input {
+        flex: 1;
+        padding: 12px 15px;
+        border: 1px solid #ddd;
+        border-radius: 4px 0 0 4px;
+        font-size: 16px;
+    }
+
+.search-button {
+    padding: 0 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.filters {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.filter-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+    .filter-group label {
+        font-weight: 500;
+    }
+
+    .filter-group select {
+        padding: 8px 12px;
+        border-radius: 4px;
+        border: 1px solid #ddd;
+    }
+
+.trainings-catalog {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.training-card {
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+    .training-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    }
+
+.training-image {
+    height: 180px;
+    background-size: cover;
+    background-position: center;
+    background-color: #eee;
+}
+
+.training-info {
+    padding: 20px;
+}
+
+    .training-info h3 {
+        margin: 0 0 10px;
+        color: #333;
+    }
+
+    .training-info p {
+        color: #666;
+        margin: 0 0 15px;
+        line-height: 1.4;
+    }
+
+.training-meta {
+    display: flex;
+    gap: 15px;
+    color: #4CAF50;
+    font-size: 14px;
+}
+
+.no-results {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 40px;
+    color: #666;
+}

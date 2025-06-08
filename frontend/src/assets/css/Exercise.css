@@ -1,0 +1,233 @@
+.exercise-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    color: #333;
+}
+
+.back-button {
+    background: none;
+    border: none;
+    color: #4CAF50;
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.back-button:hover {
+    color: #2e7d32;
+}
+
+.exercise-header {
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.exercise-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #222;
+    font-weight: 700;
+}
+
+.exercise-meta {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.exercise-meta span {
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.category {
+    background-color: #e3f2fd;
+    color: #1976d2;
+}
+
+.difficulty {
+    background-color: #fff8e1;
+    color: #ff8f00;
+}
+
+.duration {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+}
+
+.exercise-content {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+}
+
+.exercise-image {
+    width: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.exercise-image img {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+    display: block;
+}
+
+.exercise-section {
+    margin-bottom: 2rem;
+}
+
+.exercise-section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+    color: #222;
+    position: relative;
+    padding-bottom: 0.5rem;
+}
+
+.exercise-section h2::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background-color: #4CAF50;
+}
+
+.exercise-section p {
+    line-height: 1.7;
+    font-size: 1.1rem;
+    color: #444;
+    margin-bottom: 1.5rem;
+}
+
+.exercise-item {
+    background: #fff;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.exercise-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.exercise-item h3 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    color: #333;
+    display: flex;
+    align-items: center;
+}
+
+
+.instructions-list {
+    padding-left: 1.5rem;
+}
+
+.instructions-list li {
+    margin-bottom: 0.8rem;
+    line-height: 1.6;
+    position: relative;
+    padding-left: 1rem;
+}
+
+.instructions-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.6rem;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #4CAF50;
+}
+
+.exercise-actions {
+    display: flex;
+    gap: 1rem;
+    margin-top: 3rem;
+    justify-content: center;
+}
+
+.save-button {
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+
+
+.save-button {
+    background-color: white;
+    color: #4CAF50;
+    border: 2px solid #4CAF50;
+}
+
+.save-button:hover {
+    background-color: #f1f8e9;
+    transform: translateY(-2px);
+}
+
+.not-found-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    position: relative;
+}
+
+.not-found {
+    text-align: center;
+    padding: 4rem 2rem;
+    margin-top: 2rem;
+}
+
+.not-found h2 {
+    font-size: 2rem;
+    color: #d32f2f;
+    margin-bottom: 1rem;
+}
+
+.not-found p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 2rem;
+}
+
+.not-found .primary-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.not-found .primary-button:hover {
+    background-color: #3d8b40;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(76, 175, 80, 0.3);
+}
+

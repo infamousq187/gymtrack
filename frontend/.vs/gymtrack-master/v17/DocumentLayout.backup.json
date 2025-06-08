@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\parts\\Header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\parts\\Header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\css\\About.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\css\\About.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\MainPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\MainPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Trainings.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Trainings.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\css\\Profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\css\\Profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\parts\\Exercise.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\parts\\Exercise.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\css\\Exercise.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\css\\Exercise.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\main\\java\\rutimur\\gymtrack\\Controller\\AuthController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\rutimur\\gymtrack\\Controller\\AuthController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\main\\java\\rutimur\\gymtrack\\Security\\JwtAuthFilter.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\rutimur\\gymtrack\\Security\\JwtAuthFilter.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.css",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\css\\About.css",
+              "RelativeDocumentMoniker": "src\\assets\\css\\About.css",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\css\\About.css",
+              "RelativeToolTip": "src\\assets\\css\\About.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-02T17:43:50.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.jsx",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\parts\\Header.jsx",
+              "RelativeDocumentMoniker": "src\\assets\\parts\\Header.jsx",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\parts\\Header.jsx",
+              "RelativeToolTip": "src\\assets\\parts\\Header.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-02T17:36:47.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.jsx",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\MainPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\MainPage.jsx",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\MainPage.jsx",
+              "RelativeToolTip": "src\\pages\\MainPage.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-02T17:32:11.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\About.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\About.jsx",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\About.jsx",
+              "RelativeToolTip": "src\\pages\\About.jsx",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-02T17:31:27.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exercise.css",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\css\\Exercise.css",
+              "RelativeDocumentMoniker": "src\\assets\\css\\Exercise.css",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\css\\Exercise.css",
+              "RelativeToolTip": "src\\assets\\css\\Exercise.css",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-02T16:34:13.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exercise.jsx",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\parts\\Exercise.jsx",
+              "RelativeDocumentMoniker": "src\\assets\\parts\\Exercise.jsx",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\parts\\Exercise.jsx",
+              "RelativeToolTip": "src\\assets\\parts\\Exercise.jsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-02T16:10:32.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trainings.jsx",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Trainings.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Trainings.jsx",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Trainings.jsx",
+              "RelativeToolTip": "src\\pages\\Trainings.jsx",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-02T15:56:25.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.css",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\css\\Profile.css",
+              "RelativeDocumentMoniker": "src\\assets\\css\\Profile.css",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\assets\\css\\Profile.css",
+              "RelativeToolTip": "src\\assets\\css\\Profile.css",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-02T15:48:39.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.jsx",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Profile.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Profile.jsx",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Profile.jsx",
+              "RelativeToolTip": "src\\pages\\Profile.jsx",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAawHoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-02T15:29:13.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.java",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\main\\java\\rutimur\\gymtrack\\Controller\\AuthController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\rutimur\\gymtrack\\Controller\\AuthController.java",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\main\\java\\rutimur\\gymtrack\\Controller\\AuthController.java",
+              "RelativeToolTip": "src\\main\\java\\rutimur\\gymtrack\\Controller\\AuthController.java",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASmSURBVDhPbVRrbFRFFP7mvvbRBdtSRAgUlYVYBIJSE0GjhIcaQn8gpI2vUBWNBGMI/vGRNmqiUQNKAAMESDSKiYL\u002BIMFHogaMsQbXRKDIq4XSbrHQ1273dffemTmeu7vUmHiSuTN3Ht/5znfOjEDF6OyKVyDyr8O\u002BNAQZ68QpdCGNAQybSSRjv4mdf3RXtsLuKDxXFQ4fSt0lUpWpshHRv4Cn154ExRagGAEKGvR8urJgAmExJtKTZ4qe7Sn7qLeBYrTXDMtL9iRrTTYe6ixvLJsRfCjxWB0Qm8fMQIMroD5rBdn3lJe1A5GpngiEvrh92\u002BAcUtZukRIGpI7LvO6I9MuWAOOGlRjSqfWbuNuV67sTVzoZ\u002B0sHUhrQxV6IQidICSgZRcfN9fnXVi2OktBAjQRNYH\u002BLFgLxKVsLNXgVQsgbgL8jV9/4V8ck7D/8Liir4RcNeNkI/IKDAgF5bikQrukh5P08fCJugLvzCPDwMlCVddxysM6gU613QIcbKT0XyMyEKhKWtr6Ix9/ZjsUtzZClg4TlT67FklXLYZm10MKCZCLME9pnvbMKguhBeYZ\u002BZZHoCaQbQKPzgJPXID3ClbOnseTRFpw7caIEprRGw72LMGt\u002BA1SQR6eOuRqcVEYsMkJKQR9lCY7KtIHv5rXQ1tkZsZfX/54OkZqG/gvJQAn0XewuMVR8MDgbtBIrw4ZhTSyNaYir4Gcb6OGxJXoMHHR3Y7DbFf5VQTLD4gsuxxreCvjKhB2NllsohFw2N\u002B5AmyHAdIDBoFB4IkQQYd1liZNtH1L3lHrkrc16z00Y7hvF\u002Bra3S4BPtbejr/sy1r/5MjtS2PHejgpLgmZgYYZRW/AxGg5mGVagR1DX5Dh8nKfL0vjzuEDb1z5nltkVbJAXgcdxmVVRZIoufG1hjEswa3AZqSK0djF15SfoX7oMmhmyi0cM/Cja6YBpiE8ngNKhUkieqeA7LnLOKPIii\u002BHMMHLFHDJemoGyIK2CW1Zim3aYbZYTxApQWFwx8IPzlkjaCaSqoS3BZAONqKwVj6XwONMusiYzMwUKyoX2RgDFYbBlbYY1mBv/enB6DHEo2YWBWYv10LStusih6ACM998A5ZA1YshaIRQsE3nT5EpR8FQOys\u002BAopxlzo0BoZo6MjEr8CKOHZNyy90Juh5jkBG81P4\u002B4nMXcGiCG19b1m1l0zpOBG\u002BuhBqYUhKGMGFw2BFDe5lqKz7\u002B2shnHzqSSA83bU6cgcd3ystxUgpR5gL0RiN8mMXQPtPlAuae\u002BF9LH9amb2HMfwC1DFg/Qs\u002BMA\u002Brm5tG09qrPjhbhX5sBujoVyarZ\u002BP7WSTg0ywE5Oqgz7lnZsGS9mSdHYDTwDaurHTMdc2DKgLlnHFCteZrgVkFengOZugUXqxuT52puO/zCan\u002B1SxTXhoSKulCxIpwZLM2FIijCjDmRhi0ShmPu9\u002BvoYPm1ua9tgzJpH3qmXy/4kz8/X9v4VeOZmb\u002BUPLGFPnA/0srbqCKuEHyJrN5YkDUPtv5Y22qfv6U6Udlafg\u002B9hdta7cFor\u002Bjf\u002BFNp9n8scmDk/qLpf2OpqjFz0N5VcJ1deIOL9D8G/AN9VXvR1b7ukwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-02T15:16:32.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "src\\services\\api.js",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\services\\api.js",
+              "RelativeToolTip": "src\\services\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-02T14:57:19.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-02T14:55:47.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Register.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Register.jsx",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Register.jsx",
+              "RelativeToolTip": "src\\pages\\Register.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-02T14:52:05.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Login.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Login.jsx",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\pages\\Login.jsx",
+              "RelativeToolTip": "src\\pages\\Login.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-02T14:50:26.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-02T15:30:58.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtAuthFilter.java",
+              "DocumentMoniker": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\main\\java\\rutimur\\gymtrack\\Security\\JwtAuthFilter.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\rutimur\\gymtrack\\Security\\JwtAuthFilter.java",
+              "ToolTip": "C:\\Users\\Anton\\Desktop\\gymtrack-master\\src\\main\\java\\rutimur\\gymtrack\\Security\\JwtAuthFilter.java",
+              "RelativeToolTip": "src\\main\\java\\rutimur\\gymtrack\\Security\\JwtAuthFilter.java",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASmSURBVDhPbVRrbFRFFP7mvvbRBdtSRAgUlYVYBIJSE0GjhIcaQn8gpI2vUBWNBGMI/vGRNmqiUQNKAAMESDSKiYL\u002BIMFHogaMsQbXRKDIq4XSbrHQ1273dffemTmeu7vUmHiSuTN3Ht/5znfOjEDF6OyKVyDyr8O\u002BNAQZ68QpdCGNAQybSSRjv4mdf3RXtsLuKDxXFQ4fSt0lUpWpshHRv4Cn154ExRagGAEKGvR8urJgAmExJtKTZ4qe7Sn7qLeBYrTXDMtL9iRrTTYe6ixvLJsRfCjxWB0Qm8fMQIMroD5rBdn3lJe1A5GpngiEvrh92\u002BAcUtZukRIGpI7LvO6I9MuWAOOGlRjSqfWbuNuV67sTVzoZ\u002B0sHUhrQxV6IQidICSgZRcfN9fnXVi2OktBAjQRNYH\u002BLFgLxKVsLNXgVQsgbgL8jV9/4V8ck7D/8Liir4RcNeNkI/IKDAgF5bikQrukh5P08fCJugLvzCPDwMlCVddxysM6gU613QIcbKT0XyMyEKhKWtr6Ix9/ZjsUtzZClg4TlT67FklXLYZm10MKCZCLME9pnvbMKguhBeYZ\u002BZZHoCaQbQKPzgJPXID3ClbOnseTRFpw7caIEprRGw72LMGt\u002BA1SQR6eOuRqcVEYsMkJKQR9lCY7KtIHv5rXQ1tkZsZfX/54OkZqG/gvJQAn0XewuMVR8MDgbtBIrw4ZhTSyNaYir4Gcb6OGxJXoMHHR3Y7DbFf5VQTLD4gsuxxreCvjKhB2NllsohFw2N\u002B5AmyHAdIDBoFB4IkQQYd1liZNtH1L3lHrkrc16z00Y7hvF\u002Bra3S4BPtbejr/sy1r/5MjtS2PHejgpLgmZgYYZRW/AxGg5mGVagR1DX5Dh8nKfL0vjzuEDb1z5nltkVbJAXgcdxmVVRZIoufG1hjEswa3AZqSK0djF15SfoX7oMmhmyi0cM/Cja6YBpiE8ngNKhUkieqeA7LnLOKPIii\u002BHMMHLFHDJemoGyIK2CW1Zim3aYbZYTxApQWFwx8IPzlkjaCaSqoS3BZAONqKwVj6XwONMusiYzMwUKyoX2RgDFYbBlbYY1mBv/enB6DHEo2YWBWYv10LStusih6ACM998A5ZA1YshaIRQsE3nT5EpR8FQOys\u002BAopxlzo0BoZo6MjEr8CKOHZNyy90Juh5jkBG81P4\u002B4nMXcGiCG19b1m1l0zpOBG\u002BuhBqYUhKGMGFw2BFDe5lqKz7\u002B2shnHzqSSA83bU6cgcd3ystxUgpR5gL0RiN8mMXQPtPlAuae\u002BF9LH9amb2HMfwC1DFg/Qs\u002BMA\u002Brm5tG09qrPjhbhX5sBujoVyarZ\u002BP7WSTg0ywE5Oqgz7lnZsGS9mSdHYDTwDaurHTMdc2DKgLlnHFCteZrgVkFengOZugUXqxuT52puO/zCan\u002B1SxTXhoSKulCxIpwZLM2FIijCjDmRhi0ShmPu9\u002BvoYPm1ua9tgzJpH3qmXy/4kz8/X9v4VeOZmb\u002BUPLGFPnA/0srbqCKuEHyJrN5YkDUPtv5Y22qfv6U6Udlafg\u002B9hdta7cFor\u002Bjf\u002BFNp9n8scmDk/qLpf2OpqjFz0N5VcJ1deIOL9D8G/AN9VXvR1b7ukwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-02T14:46:52.241Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
